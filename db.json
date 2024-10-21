@@ -1,0 +1,74 @@
+{
+  "allVideos": [
+    {
+      "id": "a079",
+      "caption": "arm",
+      "url": "https://i.ytimg.com/vi/1LnnrbPSAHQ/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/wTWKfTIpvHc"
+    }
+  ],
+  "categories": [
+    {
+      "id": "8801",
+      "categoryName": "demo",
+      "allVideos": [
+        {
+          "id": "8c5d",
+          "caption": "javascript",
+          "url": "https://i.ytimg.com/vi/QduRqaVo7BQ/maxresdefault.jpg",
+          "link": "https://www.youtube.com/embed/PkZNo7MFNFg"
+        },
+        {
+          "id": "aa3e",
+          "caption": "react",
+          "url": "https://ik.imagekit.io/laxaar/1686313855890ReactJS_2400x1200.png",
+          "link": "https://www.youtube.com/embed/kVeOpcw4GWY"
+        }
+      ]
+    },
+    {
+      "id": "d82e",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "f82f",
+          "caption": "movie",
+          "url": "https://tse2.mm.bing.net/th?id=OIP.BG8YAnHI0NmFK5umD8RDMgAAAA&pid=Api&P=0&h=220",
+          "link": "https://www.youtube.com/embed/Po3jStA673E"
+        },
+        {
+          "id": "9a1c",
+          "caption": "css",
+          "url": "https://i.ytimg.com/vi/wNX7lWzchow/maxresdefault.jpg",
+          "link": "https://www.youtube.com/embed/1PnVor36_40"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "1894",
+      "caption": "javascript",
+      "link": "https://www.youtube.com/embed/PkZNo7MFNFg",
+      "timeStamp": "10/3/2024, 1:55:30 PM GMT+5:30"
+    },
+    {
+      "id": "f240",
+      "caption": "javascript",
+      "link": "https://www.youtube.com/embed/PkZNo7MFNFg",
+      "timeStamp": "10/7/2024, 1:54:47 PM GMT+5:30"
+    },
+    {
+      "id": "73a6",
+      "caption": "react",
+      "link": "https://www.youtube.com/embed/kVeOpcw4GWY",
+      "timeStamp": "10/8/2024, 1:45:45 PM GMT+5:30"
+    },
+    {
+      "id": "ef33",
+      "caption": "react",
+      "link": "https://www.youtube.com/embed/kVeOpcw4GWY",
+      "timeStamp": "10/8/2024, 2:27:04 PM GMT+5:30"
+    }
+  ]
+}
